@@ -32,7 +32,7 @@ function ProjectCard({ project, index }) {
             href={project.github}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-accent underline underline-offset-4 hover:text-accent-hover transition-colors"
+            className="text-text underline underline-offset-4 hover:opacity-70 transition-opacity"
           >
             GitHub
           </a>
@@ -47,7 +47,7 @@ export default function Projects() {
 
   return (
     <section id="projects" className="py-16 md:py-24">
-      <div className="max-w-3xl mx-auto px-6">
+      <div className="max-w-5xl mx-auto px-6">
         <div
           ref={headerRef}
           className={`reveal ${headerVisible ? "visible" : ""} mb-12`}

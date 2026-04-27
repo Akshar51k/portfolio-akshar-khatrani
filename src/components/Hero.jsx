@@ -54,18 +54,18 @@ export default function Hero() {
         variants={containerVariants}
         initial="hidden"
         animate="visible"
-        className="max-w-3xl mx-auto px-6"
+        className="max-w-5xl mx-auto px-6"
       >
         <motion.h1
           variants={item}
-          className="text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight mb-6"
+          className="text-3xl sm:text-4xl font-serif font-normal text-text mb-6"
         >
           {heroData.name}
         </motion.h1>
 
         <motion.div
           variants={item}
-          className="text-xl sm:text-2xl font-light mb-6"
+          className="text-[18px] sm:text-[22px] font-light mb-6"
         >
           <Typewriter words={heroData.roles} />
         </motion.div>
@@ -79,7 +79,7 @@ export default function Hero() {
             href={heroData.linkedin}
             target="_blank"
             rel="noopener noreferrer"
-            className="underline underline-offset-4 hover:text-text transition-colors"
+            className="font-semibold underline underline-offset-4 hover:text-text transition-colors"
           >
             LinkedIn
           </a>{" "}
@@ -88,7 +88,7 @@ export default function Hero() {
             href={heroData.github}
             target="_blank"
             rel="noopener noreferrer"
-            className="underline underline-offset-4 hover:text-text transition-colors"
+            className="font-semibold underline underline-offset-4 hover:text-text transition-colors"
           >
             GitHub
           </a>{" "}
@@ -97,7 +97,7 @@ export default function Hero() {
             href={heroData.leetcode}
             target="_blank"
             rel="noopener noreferrer"
-            className="underline underline-offset-4 hover:text-text transition-colors"
+            className="font-semibold underline underline-offset-4 hover:text-text transition-colors"
           >
             LeetCode
           </a>{" "}
@@ -106,14 +106,14 @@ export default function Hero() {
             href={heroData.x}
             target="_blank"
             rel="noopener noreferrer"
-            className="underline underline-offset-4 hover:text-text transition-colors"
+            className="font-semibold underline underline-offset-4 hover:text-text transition-colors"
           >
             X
           </a>{" "}
           /{" "}
           <a
             href={`mailto:${contactData.email}`}
-            className="underline underline-offset-4 hover:text-text transition-colors"
+            className="font-semibold underline underline-offset-4 hover:text-text transition-colors"
           >
             Email
           </a>

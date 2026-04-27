@@ -30,7 +30,7 @@ export default function Experience() {
 
   return (
     <section id="experience" className="py-16 md:py-24">
-      <div className="max-w-3xl mx-auto px-6">
+      <div className="max-w-5xl mx-auto px-6">
         <div
           ref={headerRef}
           className={`reveal ${headerVisible ? "visible" : ""} mb-12`}
