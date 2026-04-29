@@ -19,6 +19,7 @@ export default function App() {
       <Skills />
       <Contact />
       <Footer />
+      <SpeedInsights />
     </div>
   );
 }
