@@ -27,21 +27,27 @@ export const aboutData = {
 
 export const experienceData = [
   {
+    role: "Junior AI ML Engineer",
+    company: "Topia Life Science",
+    period: "Jun 2026 – Present",
+    description: "Building AI agents, GenAI chatbots, and RAG systems for production environments.",
+  },
+  {
     role: "AI Engineer Intern",
     company: "Tuvoc Technologies",
-    period: "Apr 2025 – Present",
-    description: "Building AI-powered solutions and engineering intelligent systems for production environments.",
+    period: "Jan 2026 – May 2026",
+    description: "Building Production-Grade AI-powered solutions and engineering intelligent systems.",
   },
   {
     role: "Research Intern",
     company: "Carleton University",
-    period: "Jan 2025 – Apr 2025",
-    description: "Conducted research in machine learning and contributed to academic projects in intelligent systems.",
+    period: "Jan 2026 – Apr 2026",
+    description: "Conducted research in machine learning and contributed to academic projects in medical intelligent systems.",
   },
   {
     role: "Software Developer Intern",
     company: "Ncode Solutions",
-    period: "2024",
+    period: "2025",
     description: "Developed full-stack software solutions and contributed to production-grade applications.",
   },
 ];
