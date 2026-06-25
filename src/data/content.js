@@ -58,14 +58,28 @@ export const projectsData = [
     description:
       "End-to-end EMG gesture labeler using windowing, time-domain feature extraction, and classical ML models.",
     tags: ["Python", "Jupyter", "Scikit-learn", "Signal Processing"],
-    github: "https://github.com/Akshar51k",
+    github: "https://github.com/Akshar51k/emg_hand_gesture_classifier",
   },
   {
     title: "RAG Search with LangChain",
     description:
       "AI-powered news research chatbot built with Streamlit & LangChain. Uses FAISS for retrieval, HuggingFace embeddings, and Groq LLM for Q&A.",
     tags: ["Python", "LangChain", "FAISS", "Streamlit"],
-    github: "https://github.com/Akshar51k",
+    github: "https://github.com/Akshar51k/Rag_Search_langchain",
+  },
+  {
+    title: "Helmet Detection using YOLO",
+    description:
+      "Deep learning system to detect helmet usage by two-wheeler riders using YOLO + SSD.",
+    tags: ["Python", "YOLO", "Deep Learning", "OpenCV"],
+    github: "https://github.com/Akshar51k/Helmet-Detection-using-yolo",
+  },
+  {
+    title: "Potato Disease Classifier",
+    description:
+      "Trained a CNN on 3,000+ images with data augmentation to classify potato leaf diseases for early-stage crop health detection.",
+    tags: ["Python", "TensorFlow", "CNN", "FastAPI"],
+    github: "https://github.com/Akshar51k/Potato_Leaf_Diseases",
   },
   {
     title: "Stock Market Analysis",
@@ -75,18 +89,11 @@ export const projectsData = [
     github: "https://github.com/Akshar51k",
   },
   {
-    title: "Helmet Detection using YOLO",
-    description:
-      "Deep learning system to detect helmet usage by two-wheeler riders using YOLO + SSD.",
-    tags: ["Python", "YOLO", "Deep Learning", "OpenCV"],
-    github: "https://github.com/Akshar51k",
-  },
-  {
     title: "Railway Ticket System",
     description:
       "Menu-driven Railway Ticket Reservation System built with Python and MySQL.",
     tags: ["Python", "MySQL", "CLI"],
-    github: "https://github.com/Akshar51k",
+    github: "https://github.com/Akshar51k/Railway_ticket",
   },
 ];
 

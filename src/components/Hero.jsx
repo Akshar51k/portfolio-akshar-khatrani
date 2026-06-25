@@ -63,6 +63,8 @@ export default function Hero() {
           {heroData.name}
         </motion.h1>
 
+        <h2 className="sr-only">{heroData.roles.join(", ")}</h2>
+
         <motion.div
           variants={item}
           className="text-[18px] sm:text-[22px] font-light mb-6"

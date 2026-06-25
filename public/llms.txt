@@ -1,0 +1,26 @@
+# Akshar Khatrani
+
+> AI/ML Engineer and Software Developer building intelligent systems, RAG pipelines, and GenAI agents.
+
+## About
+Akshar Khatrani is a Software Developer and AI Engineer focused on machine learning, intelligent systems, and full-stack development. Experience spans NLP, computer vision, and production-grade AI pipelines.
+
+## Experience
+- AI/ML Engineer, Topia Life Science (Jun 2026 – Present) — building AI agents, GenAI chatbots, and RAG systems.
+- AI Engineer Intern, Tuvoc Technologies (Jan 2026 – May 2026) — production-grade AI-powered solutions and intelligent systems.
+- Research Intern, Carleton University (Jan 2026 – Apr 2026) — machine learning research, medical intelligent systems.
+- Software Developer Intern, Ncode Solutions (2025) — full-stack web applications.
+
+## Projects
+- EMG Hand Gesture Classifier — Python, Scikit-learn, Signal Processing
+- RAG Search with LangChain — Python, LangChain, FAISS, Streamlit
+- Stock Market Analysis — Python, TensorFlow, LSTM
+- Helmet Detection using YOLO — Python, YOLO, OpenCV
+- Railway Ticket System — Python, MySQL
+- Potato Disease Classifier — Python, TensorFlow, Keras, CNN
+
+## Contact
+- GitHub: https://github.com/Akshar51k
+- LinkedIn: https://www.linkedin.com/in/akshar-khatrani-292255264/
+- X: https://x.com/Akshar51k
+- LeetCode: https://leetcode.com/u/khatraniakshar63/
