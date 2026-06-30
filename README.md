@@ -1,6 +1,6 @@
 # React + Vite
 
-Check this out😁: https://akshar-khatrani.page
+Check this out😁: [click here👉🏻](https://akshar-khatrani.page)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
